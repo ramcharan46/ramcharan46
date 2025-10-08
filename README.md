@@ -31,16 +31,3 @@ I was not very active on GitHub in the last 2–3 years due to other commitments
 *Thanks for visiting my profile!*
 
 ---
-
-### 🔄 How to Showcase Your Activity
-
-You can automatically show your recent GitHub activity using the [GitHub Readme Activity](https://github.com/Readme-Workflows/readme-activity) workflow.  
-Add this to your README where indicated above:
-
-```
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-```
-
-This will update automatically with your latest actions (commits, issues, PRs) using a GitHub Action.  
-Learn more: [Readme Activity Docs](https://github.com/Readme-Workflows/readme-activity)
