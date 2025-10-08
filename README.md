@@ -37,9 +37,9 @@
 
 
 
-<div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=ramcharan46&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 
+![Profile Views](https://komarev.com/ghpvc/?username=ramcharan46&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+<div align="center">
 ###  Thanks for visiting my profile! 
 
 <!-- Animated Wave Footer with Cyan Background -->
