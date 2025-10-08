@@ -28,9 +28,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramcharan46&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" height="170"/>
 </div>
 
-<!-- Decorative Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/ramcharan46/ramcharan46/output/github-snake-dark.svg" alt="Snake animation"/>
 </div>
