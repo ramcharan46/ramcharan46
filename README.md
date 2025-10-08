@@ -35,11 +35,11 @@
 <!-- Decorative Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-
+<div align="center">
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ramcharan46&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-<div align="center">
+
 ###  Thanks for visiting my profile! 
 
 <!-- Animated Wave Footer with Cyan Background -->
