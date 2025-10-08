@@ -34,7 +34,7 @@
 ## Snake Game From Contribution Grid
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ramcharan46/ramcharan46/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/ramcharan46/ramcharan46/output/github-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 <!-- Decorative Animated Line -->
