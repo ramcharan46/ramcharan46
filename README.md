@@ -31,8 +31,6 @@
 <!-- Decorative Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Snake Game From Contribution Grid
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/ramcharan46/ramcharan46/output/github-snake-dark.svg" alt="Snake animation"/>
 </div>
