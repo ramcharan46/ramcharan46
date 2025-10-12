@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Wave Header with Cyan Background -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0099ff,100:00d4ff&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0099ff,100:00d4ff&height=200&section=header&text=Code.%20Create.%20Repeat.&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 <!-- Animated Typing Introduction -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+ThatSlurpGuy!;(RamCharan);Open-source+enthusiast;Back+after+3+years!" alt="Typing SVG"/>
