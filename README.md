@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Wave Header with Cyan Background -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0099ff,100:00d4ff&height=200&section=header&text=Code.%20Create.%20Repeat.&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0099ff,100:00d4ff&height=200&section=header&text=Code.%20Create.%20Repeat.&fontSize=50&fontColor=fff&animation=twinkling" />
 
 <!-- Animated Typing Introduction -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+ThatSlurpGuy!;(RamCharan);Open-source+enthusiast;Back+after+3+years!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+ThatSlurpGuy!;(RAM+Charan+%F0%9F%8E%93)" />
 
 <!-- Decorative Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -24,8 +24,10 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramcharan46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ramcharan46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
 </div>
+
+[![An image of @ramcharan46's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ramcharan46)](https://holopin.io/@ramcharan46)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ramcharan46/ramcharan46/output/github-snake-dark.svg" alt="Snake animation"/>
