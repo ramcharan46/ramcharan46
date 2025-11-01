@@ -59,12 +59,10 @@ Recently resumed activity—new projects coming soon!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ramcharan46&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ramcharan46&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramcharan46&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramcharan46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
+  ![](https://github-readme-stats.vercel.app/api?username=ramcharan46&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=ramcharan46&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramcharan46&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ## 🏆 GitHub Trophies
