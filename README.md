@@ -4,26 +4,26 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0099ff,100:00d4ff&height=200&section=header&text=Code.%20Create.%20Repeat.&fontSize=50&fontColor=fff&animation=twinkling"/>
 
 <!-- Animated Typing Introduction -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+ramcharan46!;Passionate+Developer+%26+Open-Source+Enthusiast;121%2B+Public+Repos;Active+since+2020;Always+creating+new+projects" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+ThatSlurpGuy!;(RAM+Charan+%F0%9F%8E%93)" />
 
 <!-- Decorative Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-# 💫 About Me:
-Passionate developer and open-source enthusiast<br>
-Active on GitHub since 2020<br>
-121+ Public Repositories: Automation, web apps, data tools, and more<br>
-Recently resumed activity—new projects coming soon!
+# About Me:
+- Passionate developer and open-source enthusiast
+- Active on GitHub since **2020**
+- **121+ Public Repositories**: Automation, web apps, data tools, and more
+- Recently resumed activity—new projects coming soon!
 
-## 🌐 Socials:
+## Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramcharanvunnam@gmail.com)
 
 <!-- Decorative Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -58,7 +58,7 @@ Recently resumed activity—new projects coming soon!
 <!-- Decorative Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=ramcharan46&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -67,7 +67,7 @@ Recently resumed activity—new projects coming soon!
 
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ramcharan46&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 [![Holopin Badges](https://holopin.me/ramcharan46)](https://holopin.io/@ramcharan46)
