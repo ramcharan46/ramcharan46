@@ -15,7 +15,7 @@
 - Passionate developer and open-source enthusiast
 - Active on GitHub since **2020**
 - **121+ Public Repositories**: Automation, web apps, data tools, and more
-- Recently resumed activity—new projects coming soon!
+- Recently resumed activity-new projects coming soon!
 
 ## Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramcharanvunnam@gmail.com)
